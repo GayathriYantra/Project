@@ -9,6 +9,7 @@ public class CreateNewProject {
 		System.out.println("github practice");
 		System.out.println("Create new Repository");
 		System.out.println("modification done");
+		System.out.println("successfully jenkins installed");
 	}
 
 }
